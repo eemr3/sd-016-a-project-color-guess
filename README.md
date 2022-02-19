@@ -28,17 +28,19 @@ ___
 
 ## :information_source: Sobre
 
-Project Color Guess. Terceiro projeto do módulo de fundamentos do curso da Trybe
+Project Color Guess.
 
 ## :interrobang: Motivo
 
-Projeto realizado para consolidar o conhecimento em HTML, CSS e JS aprendidos até o momento. :)
+Terceiro projeto realizado no módulo de fundamento do curso na Trybe.
+Este é o segundo projeto bonus desse bloco, bloco esse o 4. Foram 2 projetos obrigatórios e 3 bonus.
+Projeto realizado para consolidar os conhecimento aprendidos em HTML, CSS, JS, Web Storage. :)
 
 ## :seedling: Requisitos Mínimos
 
 VSCode, Navegdor de sua preferência!
 
-## :rocket: Tecnologias Utilizadas 
+## :rocket: Tecnologias Utilizadas
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias
 
@@ -46,7 +48,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - JavaScript
 - CSS
 
-## :link: Como contribuir 
+## :link: Como contribuir
 
 - Faça um Fork do repositório
 - Clone o seu repositório
@@ -55,6 +57,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - 'Push' a sua branch
 - Ir em Pull Requests do projeto original e criar uma pull request com o seu commit
 
-## Licença 
+## Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
